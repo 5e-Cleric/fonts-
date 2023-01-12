@@ -1,0 +1,56 @@
+/*Solbera Imitation (1st letter)*/
+@font-face {
+    font-family: 'SolberaImitationBaselineCenterMarkWeb-Regular';
+       src: url('https://raw.githack.com/5e-Cleric/Solbera-s-Fonts/main/SolberaImitationBaselineCenterMarkWeb-Regular.woff')
+}
+@font-face {
+    font-family: 'SolberaImitationTestUnmarkedWeb-Regular';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/Solbera-s-Fonts/eb41838ebb9e8fd9fe6bb48ff58b5dcd9bd7a96a/SolberaImitationTestUnmarkedWeb-Regular.woff')
+}
+/*Nodesto Caps(Book Title)*/
+@font-face {
+    font-family: 'nodesto_caps_condensed-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Nodesto/nodesto_caps_condensed-webfont.woff')
+}
+@font-face {
+    font-family: 'nodesto_caps_condensed_bold-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Nodesto/nodesto_caps_condensed_bold-webfont.woff')
+}
+@font-face {
+    font-family: 'nodesto_caps_condensed_bold_italic-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Nodesto/nodesto_caps_condensed_bold_italic-webfont.woff')
+}
+@font-face {
+    font-family: 'nodesto_caps_condensed_italic-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Nodesto/nodesto_caps_condensed_italic-webfont.woff')
+}
+/*Mr eaves (headers font)*/
+@font-face {
+    font-family: 'mr_eaves_small_caps-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Mr%20eaves/mr_eaves_small_caps-webfont.woff')
+}
+/*BookInsanity*/
+@font-face {
+    font-family: 'bookinsanity-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Bookinsanity/bookinsanity-webfont.woff')
+}
+@font-face {
+    font-family: 'bookinsanity_bold-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Bookinsanity/bookinsanity_bold-webfont.woff')
+}
+@font-face {
+    font-family: 'bookinsanity_bold_italic-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Bookinsanity/bookinsanity_bold_italic-webfont.woff')
+}
+@font-face {
+    font-family: 'bookinsanity_italic-webfont';
+	     src:url('https://rawcdn.githack.com/5e-Cleric/fonts-/D&D 5e/c5ce12e1b3b7a6240c876c18c558ef02b341d710/Bookinsanity/bookinsanity_italic-webfont.woff')
+}
+@font-face {
+		font-family: 'ModestoW01-LightText';
+		src: url("//db.onlinewebfonts.com/t/ce95d5f5d67c0b9964fda828ee2671d4.woff2") format('woff2'); font-weight: bold; font-style: normal;
+}
+
+
+
+
