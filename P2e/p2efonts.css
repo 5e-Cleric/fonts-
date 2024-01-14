@@ -1,0 +1,6 @@
+@font-face {
+   font-family: "FF Good";
+  src:
+    local("FF Good"),
+    url("https://raw.githack.com/5e-Cleric/fonts-/main/P2e/FFGoodPro-Light.woff2") format("woff2")
+}
