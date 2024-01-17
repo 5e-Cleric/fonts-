@@ -4,3 +4,10 @@
     local("FF Good"),
     url("https://raw.githack.com/5e-Cleric/fonts-/main/P2e/FFGoodPro-Light.woff2") format("woff2")
 }
+
+@font-face {
+   font-family: "Taroca";
+  src:
+    local("Taroca Regular"),
+    url("https://raw.githack.com/5e-Cleric/fonts-/main/P2e/Taroca%20Regular.woff2") format("woff2")
+}
