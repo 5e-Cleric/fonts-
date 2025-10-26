@@ -1,3 +1,9 @@
+
+/*#########################################################################
+########################   Newzald Font, for Headings   #######
+###########################################################################*/
+
+
 /*#############   THIN VARIANT   ################*/
 @font-face {
   font-family:Newzald;
@@ -45,5 +51,108 @@
   font-weight:900;
   font-style:italic;
   src: url('Newzald Black Italic.otf') format("opentype");
+}
+
+/*#########################################################################
+########################   Naveid Font, for cover titles and such   #######
+###########################################################################*/
+
+/* Extra Light */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid ExtraLight.otf') format('opentype');
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid ExtraLight Oblique.otf') format('opentype');
+  font-weight: 200;
+  font-style: oblique;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Light Oblique.otf') format('opentype');
+  font-weight: 300;
+  font-style: oblique;
+}
+
+/* Thin */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Thin Oblique.otf') format('opentype');
+  font-weight: 100;
+  font-style: oblique;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Medium Oblique.otf') format('opentype');
+  font-weight: 500;
+  font-style: oblique;
+}
+
+/* Semi Bold */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid SemiBold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid SemiBold Oblique.otf') format('opentype');
+  font-weight: 600;
+  font-style: oblique;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Bold Oblique.otf') format('opentype');
+  font-weight: 700;
+  font-style: oblique;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Naveid';
+  src: url('Naveid Black Oblique.otf') format('opentype');
+  font-weight: 900;
+  font-style: oblique;
 }
 
