@@ -156,3 +156,119 @@
   font-style: oblique;
 }
 
+/*#########################################################################
+########################   Berlingske Slab Font, for main text   ##########
+###########################################################################*/
+
+/* Thin */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Thin.otf') format('opentype');
+  font-weight: 100;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Thin Italic.otf') format('opentype');
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Light */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Light.otf') format('opentype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Light Italic.otf') format('opentype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Regular */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Italic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+/* Medium */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Medium Italic.otf') format('opentype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Bold */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Bold.otf') format('opentype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Bold Italic.otf') format('opentype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Extra Bold */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Extra Bold.otf') format('opentype');
+  font-weight: 800;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Extra Bold Italic.otf') format('opentype');
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Black */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Black.otf') format('opentype');
+  font-weight: 900;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Black Italic.otf') format('opentype');
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Poster */
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Poster.otf') format('opentype');
+  font-weight: 950;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Berlingske Slab';
+  src: url('Berlingske Slab Poster Italic.otf') format('opentype');
+  font-weight: 950;
+  font-style: italic;
+}
+
