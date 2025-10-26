@@ -1,1 +1,6 @@
 
+@font-face {
+  font-family:Newzald;
+  font-weight:400;
+  src: url('Newzald Medium.otf') format("opentype");
+}
