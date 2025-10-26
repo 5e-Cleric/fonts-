@@ -1,6 +1,49 @@
-
+/*#############   THIN VARIANT   ################*/
+@font-face {
+  font-family:Newzald;
+  font-weight:300;
+  src: url('Newzald Book.otf') format("opentype");
+}
+@font-face {
+  font-family:Newzald;
+  font-weight:300;
+  font-style:italic;
+  src: url('Newzald Book Italic.otf') format("opentype");
+}
+/*#############   REGULAR   ################*/
 @font-face {
   font-family:Newzald;
   font-weight:400;
   src: url('Newzald Medium.otf') format("opentype");
 }
+@font-face {
+  font-family:Newzald;
+  font-weight:400;
+  font-style:italic;
+  src: url('Newzald Medium Italic.otf') format("opentype");
+}
+/*#############   BOLD   ################*/
+@font-face {
+  font-family:Newzald;
+  font-weight:700;
+  src: url('Newzald Bold.otf') format("opentype");
+}
+@font-face {
+  font-family:Newzald;
+  font-weight:700;
+  font-style:italic;
+  src: url('Newzald Bold Italic.otf') format("opentype");
+}
+/*#############   BLACK   ################*/
+@font-face {
+  font-family:Newzald;
+  font-weight:900;
+  src: url('Newzald Black.otf') format("opentype");
+}
+@font-face {
+  font-family:Newzald;
+  font-weight:900;
+  font-style:italic;
+  src: url('Newzald Black Italic.otf') format("opentype");
+}
+
