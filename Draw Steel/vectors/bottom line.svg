@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 182.45 13.9">
+  <defs>
+    <style>
+      .cls-1 {
+        mask: url(#mask);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: .3px;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-207.69" y1="163.99" x2="-206.69" y2="163.99" gradientTransform="translate(37892.69 29690.88) scale(182.45 -182.45)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset=".04" stop-color="#000"/>
+      <stop offset=".07" stop-color="#1f1f1f"/>
+      <stop offset=".14" stop-color="#595959"/>
+      <stop offset=".21" stop-color="#8c8c8c"/>
+      <stop offset=".27" stop-color="#b5b5b5"/>
+      <stop offset=".33" stop-color="#d5d5d5"/>
+      <stop offset=".4" stop-color="#ececec"/>
+      <stop offset=".45" stop-color="#fafafa"/>
+      <stop offset=".5" stop-color="#fff"/>
+      <stop offset=".55" stop-color="#f9f9f9"/>
+      <stop offset=".61" stop-color="#eaeaea"/>
+      <stop offset=".67" stop-color="#d0d0d0"/>
+      <stop offset=".74" stop-color="#acacac"/>
+      <stop offset=".81" stop-color="#7f7f7f"/>
+      <stop offset=".89" stop-color="#474747"/>
+      <stop offset=".96" stop-color="#060606"/>
+      <stop offset=".97" stop-color="#000"/>
+      <stop offset=".98" stop-color="#000"/>
+      <stop offset="1" stop-color="#000"/>
+    </linearGradient>
+    <mask id="mask" x="-207.69" y="-620.34" width="594" height="783" maskUnits="userSpaceOnUse">
+      <rect class="cls-4" x="-207.69" y="-620.34" width="594" height="783"/>
+    </mask>
+    <clipPath id="clippath">
+      <rect class="cls-2" width="182.45" height="13.9"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g class="cls-1">
+        <g class="cls-5">
+          <polyline class="cls-3" points="9 8.15 87.26 8.15 91.22 12.68 95.19 8.15 173.45 8.15"/>
+        </g>
+      </g>
+      <polygon points="89.4 8 91.22 5.91 93.05 8 91.22 10.09 89.4 8"/>
+    </g>
+  </g>
+</svg>
