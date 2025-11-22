@@ -1,4 +1,10 @@
 
+@font-face {
+  font-family:DS Glyphs;
+  font-weight:400;
+  src: url('DrawSteelGlyphs-Regular.otf') format("opentype");
+}
+
 /*#########################################################################
 ########################   Newzald Font, for Headings   #######
 ###########################################################################*/
