@@ -1,0 +1,122 @@
+/*This file is made for its use with the Codex of Strings third playtest (Trial in the Scar of Divinity) homebrewery theme*/
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap'); /*monster statblocks*/
+
+@font-face { /*Arek latin substitute*/
+  font-family:'Eczar';
+  src: url('https://raw.githack.com/5e-Cleric/fonts-/main/codex/Eczar.woff') format('woff');
+}
+
+/* ################   Avenir   #######################*/
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:100;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProLight.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:100;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProLightOblique.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:200;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProBook.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:200;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProBookOblique.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:300;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProRoman.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:300;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProOblique.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:400;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProMedium.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:400;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProMediumOblique.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:600;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProHeavy.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:600;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProHeavyOblique.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-weight:900;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProBlack.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'Avenir LT Pro';
+  font-style:italic;
+  font-weight:900;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/AvenirLTProBlackOblique.otf) format('opentype');
+}
+
+
+@font-face {
+  font-family: 'Barbaro Roman';
+  src:url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/Barbaro%20Roman.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Century Gothic';
+  font-weight: 400;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/centurygothic.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Century Gothic';
+  font-weight: 900;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/centurygothic.ttf) format('truetype');
+}
+
+/*pagenumbers*/
+
+@font-face {
+  font-family: Dalfitra;
+  src: url('https://raw.githack.com/5e-Cleric/fonts-/main/codex/dalfitra.otf') format('opentype');
+}
+
+/*h4*/
+
+@font-face {
+  font-family: Leiko;
+  src: url(https://raw.githack.com/5e-Cleric/fonts-/main/codex/Leiko-Regular.otf) format('opentype');
+}
