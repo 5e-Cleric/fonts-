@@ -1,1 +1,95 @@
-a
+/* Ioskeley Mono */
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Thin.woff2") format("woff2");font-weight:100;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-ThinItalic.woff2") format("woff2");font-weight:100;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-ExtraLight.woff2") format("woff2");font-weight:200;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-ExtraLightItalic.woff2") format("woff2");font-weight:200;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Light.woff2") format("woff2");font-weight:300;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-LightItalic.woff2") format("woff2");font-weight:300;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiLight.woff2") format("woff2");font-weight:350;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiLightItalic.woff2") format("woff2");font-weight:350;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Regular.woff2") format("woff2");font-weight:400;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Italic.woff2") format("woff2");font-weight:400;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Medium.woff2") format("woff2");font-weight:500;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-MediumItalic.woff2") format("woff2");font-weight:500;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiBold.woff2") format("woff2");font-weight:600;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiBoldItalic.woff2") format("woff2");font-weight:600;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Bold.woff2") format("woff2");font-weight:700;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-BoldItalic.woff2") format("woff2");font-weight:700;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-ExtraBold.woff2") format("woff2");font-weight:800;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-ExtraBoldItalic.woff2") format("woff2");font-weight:800;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Black.woff2") format("woff2");font-weight:900;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-BlackItalic.woff2") format("woff2");font-weight:900;font-style:italic;}
+
+/* Ioskeley Mono Condensed */
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedThin.woff2") format("woff2");font-weight:100;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedThinItalic.woff2") format("woff2");font-weight:100;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedExtraLight.woff2") format("woff2");font-weight:200;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedExtraLightItalic.woff2") format("woff2");font-weight:200;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedLight.woff2") format("woff2");font-weight:300;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedLightItalic.woff2") format("woff2");font-weight:300;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedSemiLight.woff2") format("woff2");font-weight:350;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedSemiLightItalic.woff2") format("woff2");font-weight:350;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-Condensed.woff2") format("woff2");font-weight:400;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedItalic.woff2") format("woff2");font-weight:400;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedMedium.woff2") format("woff2");font-weight:500;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedMediumItalic.woff2") format("woff2");font-weight:500;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedSemiBold.woff2") format("woff2");font-weight:600;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedSemiBoldItalic.woff2") format("woff2");font-weight:600;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedBold.woff2") format("woff2");font-weight:700;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedBoldItalic.woff2") format("woff2");font-weight:700;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedExtraBold.woff2") format("woff2");font-weight:800;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedExtraBoldItalic.woff2") format("woff2");font-weight:800;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedBlack.woff2") format("woff2");font-weight:900;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono Condensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-CondensedBlackItalic.woff2") format("woff2");font-weight:900;font-style:italic;}
+
+/* Ioskeley Mono SemiCondensed */
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedThin.woff2") format("woff2");font-weight:100;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedThinItalic.woff2") format("woff2");font-weight:100;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedExtraLight.woff2") format("woff2");font-weight:200;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedExtraLightItalic.woff2") format("woff2");font-weight:200;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedLight.woff2") format("woff2");font-weight:300;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedLightItalic.woff2") format("woff2");font-weight:300;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedSemiLight.woff2") format("woff2");font-weight:350;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedSemiLightItalic.woff2") format("woff2");font-weight:350;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensed.woff2") format("woff2");font-weight:400;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedItalic.woff2") format("woff2");font-weight:400;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedMedium.woff2") format("woff2");font-weight:500;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedMediumItalic.woff2") format("woff2");font-weight:500;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedSemiBold.woff2") format("woff2");font-weight:600;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedSemiBoldItalic.woff2") format("woff2");font-weight:600;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedBold.woff2") format("woff2");font-weight:700;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedBoldItalic.woff2") format("woff2");font-weight:700;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedExtraBold.woff2") format("woff2");font-weight:800;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedExtraBoldItalic.woff2") format("woff2");font-weight:800;font-style:italic;}
+
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedBlack.woff2") format("woff2");font-weight:900;font-style:normal;}
+@font-face{font-family:"Ioskeley Mono SemiCondensed";src:url("https://raw.githack.com/5e-Cleric/fonts-/main/loskeley-mono/IoskeleyMono-SemiCondensedBlackItalic.woff2") format("woff2");font-weight:900;font-style:italic;}
